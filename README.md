@@ -1,2 +1,2 @@
 # SageIT-Bigdata
-Sage IOT Bigdata Assignments
+Sage IT Bigdata Assignments
